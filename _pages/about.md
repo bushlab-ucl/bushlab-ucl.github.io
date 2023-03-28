@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='https://www.ucl.ac.uk/biosciences/neuroscience-physiology-and-pharmacology'>UCL Department of Neuroscience, Physiology and Pharmacology</a>
 
 profile:
-  align: center
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
@@ -23,5 +23,3 @@ The UCL Human Electrophysiology lab investigates the mechanisms of human spatial
 We are based in the [UCL Division of Biosciences](https://www.ucl.ac.uk/biosciences/ucl-biosciences) - one of the world’s foremost centres for research and teaching in the biological sciences and one of the largest Divisions within UCL
 
 We benefit from close collaborations with the research groups of [Neil Burgess](https://www.ucl.ac.uk/icn/research/research-groups/space-memory) at the UCL Institute of Cognitive Neuroscience, [Caswell Barry](https://barry-lab.com/) at the UCL Department of Cell and Developmental Biology, [Gareth Barnes](https://www.fil.ion.ucl.ac.uk/team/meg-team/) at the Wellcome Trust Centre for Human Neuroimaging, and [Matthew Walker](https://www.ucl.ac.uk/ion/people/professor-matthew-walker) at the UCL Queen Square Institute of Neurology
-
-We are supported by an EPSRC Frontier Research Grant
