@@ -5,7 +5,7 @@ permalink: /projects/
 description: Members of the UCL Human Electrophysiology Lab
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [principal investigator, post-doctoral researchers, research assistants]
 horizontal: false
 ---
 
