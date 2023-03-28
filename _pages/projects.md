@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: people
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Members of the UCL Human Electrophysiology Lab
 nav: true
 nav_order: 2
 display_categories: [work, fun]
