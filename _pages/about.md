@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.ucl.ac.uk/biosciences/neuroscience-physiology-and-pharmacology'>UCL Department of Neuroscience, Physiology and Pharmacology</a>
 
 profile:
   align: right
