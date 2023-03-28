@@ -8,10 +8,6 @@ profile:
   align: right
   image: brain-anatomy.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>Medical Sciences Building,</p>
-    <p>Gower Street,</p>
-    <p>London, WC1E 6BT</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
