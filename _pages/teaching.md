@@ -7,6 +7,11 @@ nav: true
 nav_order: 5
 ---
 
-Medical Sciences Building
+UCL Human Electrophysiology Lab
+GM01, Medical Sciences Building
 Gower Street
 London, WC1E 6BT
+
+[E-mail](mailto:drdanielbush@gmail.com)
+
+See 'people' page for individual contact details
