@@ -4,7 +4,7 @@ permalink: /teaching/
 title: contact
 description:
 nav: true
-nav_order: 5
+nav_order: 3
 ---
 
 UCL Human Electrophysiology Lab  
