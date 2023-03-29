@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /repositories/
-title: resources
+title: repositories
 description: Code and data repositories
-nav: true
+nav: false
 nav_order: 3
 ---
 
