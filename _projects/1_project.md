@@ -2,7 +2,7 @@
 layout: page
 title: Daniel Bush
 description: Principal Investigator
-img: assets/img/12.jpg
+img: assets/img/DanBush.jpg
 importance: 1
 category: Principal Investigator
 ---
