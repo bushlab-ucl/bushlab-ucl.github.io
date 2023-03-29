@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Daniel Bush
+title: Dr. Daniel Bush
 description: Principal Investigator
 img: assets/img/DanBush.jpg
 importance: 1
