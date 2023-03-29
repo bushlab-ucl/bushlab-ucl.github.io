@@ -4,7 +4,7 @@ title: Daniel Bush
 description: Principal Investigator
 img: assets/img/12.jpg
 importance: 1
-category: principal investigator
+category: Principal Investigator
 ---
 
 Contact: [drdanielbush@gmail.com](mailto:drdanielbush@gmail.com)  
