@@ -1,7 +1,7 @@
 ---
 layout: page
 title: people
-permalink: /projects/
+permalink: /people/
 description: Members of the UCL Human Electrophysiology Lab
 nav: true
 nav_order: 1
@@ -9,7 +9,7 @@ display_categories: [Principal Investigator, Post-doctoral Researchers, PhD Stud
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/people.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
