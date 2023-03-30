@@ -13,6 +13,6 @@ Dan graduated from Imperial College with a Masters degree in Chemical Engineerin
   
 [Google scholar](https://scholar.google.com/citations?user=mzz-3lEAAAAJ&hl=en)  
   
-[UCL profile](https://iris.ucl.ac.uk/iris/browse/profile?upi=DBUSH99)  
+[Personal website](http://danbush.co.uk/)  
   
-[Personal website](http://danbush.co.uk/)
+[UCL profile](https://iris.ucl.ac.uk/iris/browse/profile?upi=DBUSH99)  
