@@ -8,7 +8,7 @@ nav_order: 3
 ---
 
 Human Electrophysiology Lab  
-[UCL Department of Neuroscience, Physiology, and Pharmacology](https://www.ucl.ac.uk/biosciences/neuroscience-physiology-and-pharmacology)
+[UCL Department of Neuroscience, Physiology, and Pharmacology](https://www.ucl.ac.uk/biosciences/neuroscience-physiology-and-pharmacology)  
 GM01, Medical Sciences Building  
 Gower Street  
 London, WC1E 6BT  
