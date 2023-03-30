@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://bushlab-ucl.github.io/sitemap.xml
