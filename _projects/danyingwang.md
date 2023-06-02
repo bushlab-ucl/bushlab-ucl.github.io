@@ -3,7 +3,7 @@ layout: page
 title: Danying Wang
 description: Post-doctoral Researcher
 img: assets/img/DanyingWang.jpg
-importance: 1
+importance: 2
 category: Post-doctoral Researchers
 
 ---
