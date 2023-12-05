@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dan Humphries
+title: Daniel Humphries
 description: Research Assistant
 img: assets/img/dan.jpg
 importance: 4
