@@ -2,7 +2,7 @@
 layout: page
 title: Elsa Marianelli
 description: Research Assistant
-img: assets/img/R0008644.jpg
+img: assets/img/R0008644.JPG
 importance: 4
 category: Research Assistants
 ---
