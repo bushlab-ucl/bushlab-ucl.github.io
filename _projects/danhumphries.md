@@ -7,4 +7,4 @@ importance: 4
 category: Research Assistants
 ---
 
-The junior Dan in the lab has an MSci in Neuroscience from UCL and an MA in Philosophy from KCL. He is building real-time, closed-loop software (in rust) for online human experiments. Dan is interested in the mathematics of semantic structring and optimal coding schemes.
+The junior Dan in the lab has an MSci in Neuroscience from UCL and an MA in Philosophy from KCL. He is building real-time, closed-loop software (in rust) for online human experiments. Dan is interested in the mathematics of semantic structuring, and optimal coding schemes in agents and mammals.
