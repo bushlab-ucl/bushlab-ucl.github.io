@@ -2,7 +2,7 @@
 layout: page
 title: Daniel Humphries
 description: Research Assistant
-img: assets/img/dan.jpg
+img: assets/img/danielH.jpg
 importance: 4
 category: Research Assistants
 ---
