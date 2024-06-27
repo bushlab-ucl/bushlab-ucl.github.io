@@ -3,7 +3,7 @@ layout: page
 title: Luke Hollingsworth
 description: PhD Student
 img: assets/img/lukeH.jpg
-importance: 4
+importance: 3
 category: PhD Students
 ---
 
