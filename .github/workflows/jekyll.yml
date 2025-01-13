@@ -29,7 +29,7 @@ concurrency:
 jobs:
   # Build job
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04 # Ubuntu 22.04 is required for Ruby 3.1 // return to ubuntu-latest if this is patched - Dan H
     steps:
       - name: Checkout
         uses: actions/checkout@v3
