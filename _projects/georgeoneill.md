@@ -1,7 +1,7 @@
 ---
 layout: page
 title: George O'Neill
-description: Post-doctoral Researcher
+description: Former Post-doctoral Researcher
 img: assets/img/GeorgeONeill.jpg
 importance: 1
 category: Alumni
