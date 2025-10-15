@@ -3,7 +3,7 @@ layout: page
 title: Elsa Marianelli
 description: Former Research Assistant
 img: assets/img/elsaM.jpg
-importance: 2
+importance: 1
 category: Alumni
 ---
 
