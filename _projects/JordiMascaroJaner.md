@@ -1,0 +1,10 @@
+---
+layout: page
+title: Jordi Mascaro Janer
+description: Research Assistant
+img: assets/img/Jordi.jpeg
+importance: 2
+category: Research Assistants
+---
+
+Jordi recently completed an MSc in Neuroscience at UCL, after earning a BSc in Biotechnology from the University of Barcelona. He is using a 2D virtual reality platform to investigate the neural signatures of path integration in rodents, in collaboration with Neil Burgess.

@@ -3,7 +3,7 @@ layout: page
 title: Daniel Humphries
 description: LIDo PhD Student
 img: assets/img/danielH.jpg
-importance: 3
+importance: 2
 category: PhD Students
 ---
 
