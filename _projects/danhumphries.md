@@ -7,4 +7,4 @@ importance: 3
 category: PhD Students
 ---
 
-The junior Dan in the lab has an MSci in Neuroscience from UCL and an MA in Philosophy from KCL. He is building real-time, closed-loop software (in rust & python) for online human experiments, and is interested in geometrically optimal coding schemes for behaviour.
+Ever since I was five years old I have wanted to study how periodic structures like grid cells and prefrontal circuits organise thought in connection with Hopfield networks, and how defects in these systems lead to cognitive breakdown in conditions such as schizophrenia. Thanks to my supervisors Izaak Neri, Daniel Bush, and Rick Adams, this dream is now a reality.
