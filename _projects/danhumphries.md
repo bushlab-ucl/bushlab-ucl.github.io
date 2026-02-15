@@ -7,4 +7,4 @@ importance: 2
 category: PhD Students
 ---
 
-Ever since I was five years old I have wanted to study how periodic structures like grid cells and prefrontal circuits organise thought in connection with Hopfield networks, and how defects in these systems lead to cognitive breakdown in conditions such as schizophrenia. Thanks to my supervisors Izaak Neri, Daniel Bush, and Rick Adams, this dream is now a reality.
+Since I was five, I've wanted to understand how periodic neural structures like grid cells and prefrontal circuits organise thought in connection with Hopfield networks, and how their breakdown causes cognitive disorders like schizophrenia. Thanks to my supervisors Izaak Neri, Daniel Bush, and Rick Adams, I'm now doing exactly that.
