@@ -3,7 +3,7 @@ layout: page
 title: Yuval Gal-Shohet
 description: LIDO PhD Student
 img: assets/img/Yuval.jpeg
-importance: 4
+importance: 1
 category: PhD Students
 ---
 
