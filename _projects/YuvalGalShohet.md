@@ -2,7 +2,7 @@
 layout: page
 title: Yuval Gal-Shohet
 description: LIDO funded PhD Student
-img: assets/img/Yuval.jpg
+img: assets/img/Yuval.jpeg
 importance: 4
 category: PhD Students
 ---
