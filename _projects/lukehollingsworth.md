@@ -3,7 +3,7 @@ layout: page
 title: Luke Hollingsworth
 description: LIDo PhD Student
 img: assets/img/lukeH.jpg
-importance: 1
+importance: 2
 category: PhD Students
 ---
 
