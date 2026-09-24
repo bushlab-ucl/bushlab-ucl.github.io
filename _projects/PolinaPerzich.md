@@ -3,7 +3,7 @@ layout: page
 title: Polina Perzich
 description: MRC PhD Student
 img: assets/img/Polina.jpg
-importance: 3
+importance: 4
 category: PhD Students
 ---
 
