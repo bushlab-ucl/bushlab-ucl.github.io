@@ -3,7 +3,7 @@ layout: page
 title: Duarte Rodrigues
 description: ERC funded PhD Student
 img: assets/img/Duarte.jpg
-importance: 4
+importance: 5
 category: PhD Students
 ---
 
